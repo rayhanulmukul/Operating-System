@@ -1,0 +1,3 @@
+* child core chaite beshi create kore loop 1000 beshi 
+process 3 Thred, core chaite increase 4 Cild process, 
+set cpu

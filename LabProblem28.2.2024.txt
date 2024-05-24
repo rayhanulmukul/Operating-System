@@ -1,0 +1,20 @@
+1. Write a program to learn read() from keyboard file and write() into monitor file.
+2. Write a program to read from a normal file/ conventional file and display to monitor using open(), read(), write().
+3. Write a program to write into a normal file/conventional file using open(), read() and write()
+4. Write a program to create a named pipe using mkfifo()
+5. Write a program to wirte into a named pipe what is read from keyboard using open(), read(), write().
+6. Write a program to read from a named pipe and then display to monitor using open(), read(), write().
+
+Afternoon Snacks
+================
+Write a chat room using named pipe.
+
+
+
+
+
+Next Class 29/02/2024
+=====================
+# Unnamed pipe
+# Shared Memeory
+# Avoiding Race Condition

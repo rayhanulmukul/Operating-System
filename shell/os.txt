@@ -1,0 +1,18 @@
+pwd = present work directory
+cd = change directory 
+ls = list show
+ls -a = hiden list show
+mkdir = make folder
+mkdir A{1..10} = 10 make folder
+touch = new file create
+nano or gedit = text editor unix-like
+cat = file content show
+cat ex.txt | grep rayhan = find word show 
+rmdir = empty folder delete
+rm -rf = Anyone Folder delete
+rm = file delete
+cp/mv .txt NewFolder = copy/move file another folder
+
+
+ping www.google.com
+ifconfig = Network ip

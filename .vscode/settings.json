@@ -3,6 +3,7 @@
         "types.h": "c",
         "stdio.h": "c",
         "stdlib.h": "c",
-        "wait.h": "c"
+        "wait.h": "c",
+        "shm.h": "c"
     }
 }

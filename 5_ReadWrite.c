@@ -14,5 +14,15 @@ int main(){
 
     write(STDOUT_FILENO, buffer, strlen(buffer));
 
+
+    // int fileOpen = open("file.txt", O_RDWR | O_CREAT, 0777);
+    // char *msg = "Operating System";
+    // write(fileOpen, msg, strlen(msg) + 1);
+
+    // char buffer[200];
+    // int n = read(fileOpen, &buffer, sizeof(buffer));
+    // buffer[n] = '\0';
+    // write(STDOUT_FILENO, buffer, strlen(buffer));
+
     return 0;
 }

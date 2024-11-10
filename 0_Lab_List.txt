@@ -1,0 +1,19 @@
+OS Lab Topic List
+
+1. Process creation
+2. wait() system call in parent-child relationship
+3. Orphan and Zombie process
+4. execlp() system call to replace process memory image
+5. Standard and File read/write using system call
+6. Race condition in multithreading (global and local variable)
+7. Mutex
+8. Semaphore
+9. Named and Ordinary (Unnamed) pipe
+10. Chatroom using named pipe
+11. IPC using shared memory
+12. CPU management like set_cpu(), get_cpu()
+13. Priority and Niceness
+14. Signal handling
+15. Stack smashing
+16. Page replacement algorithms (FIFO, LRU, OPT)
+17. Server-Client system using Socket Programming in C

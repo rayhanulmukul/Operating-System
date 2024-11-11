@@ -13,6 +13,7 @@ int main(){
     else if(pid == 0){ // child
         printf("\nI am child having is %d\n", getpid());
         printf("My parent pid is %d\n", getppid());
+        printf("I have finished my work and now I am zombie\n");
     }
     else if(pid > 0){ // parent
         sleep(10);
